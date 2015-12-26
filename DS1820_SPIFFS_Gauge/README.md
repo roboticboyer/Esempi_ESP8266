@@ -1,6 +1,14 @@
 ESP8266_Arduino DS1820 SPIFFS Gauge Example
 ===========================================
 
+Questo esempio legge la temperatura da un termometro DS1820.
+
+Utilizza la libreria SPIFFS per salvare le pagine nella flash memory del ESP.
+
+La pagina è aggiornata dinamicamente tramite AJAX e XML.
+
+La temperatura è mostrata nella pagina internet del server ESP su un display (gauge) scritto in Javascript. 
+
 ##SPIFFS
 Upload the contents of the data folder with MkSPIFFS Tool
 
