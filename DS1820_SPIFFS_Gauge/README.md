@@ -31,3 +31,5 @@ Il codice del Javascript Gauge è derivato da:
 
 ![Image](https://github.com/roboticboyer/Esempi_ESP8266/blob/master/DS1820_SPIFFS_Gauge/Doc/Arduino_IDE_Browser_Gauge.png)
 
+##Download
+[Download the Example](https://github.com/roboticboyer/Esempi_ESP8266/zipball/master/DS1820_SPIFFS_Gauge/ESP_SPIFS_DS1820_Gauge_gio_00)
