@@ -30,3 +30,4 @@ Il codice del Javascript Gauge è derivato da:
 *http://newmaan.com/gauge.min.js
 
 ![Image](/Doc/Arduino_IDE_Browser_Gauge.png)
+
