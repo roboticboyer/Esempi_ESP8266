@@ -29,5 +29,5 @@ Il codice del Javascript Gauge è derivato da:
 
 *http://newmaan.com/gauge.min.js
 
-![Image](/Doc/Arduino_IDE_Browser_Gauge.png)
+![Image](https://github.com/roboticboyer/Esempi_ESP8266/blob/master/DS1820_SPIFFS_Gauge/Doc/Arduino_IDE_Browser_Gauge.png)
 
