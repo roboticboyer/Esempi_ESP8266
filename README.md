@@ -15,7 +15,7 @@ Questi sono  i componenti che utilizzo per i miei esperimenti con il moduli ESP8
 * [ds18b20 water proof](http://www.electrodragon.com/product/ds18b20-water-proof-probe-with-cable/)
 
 ##Scheda di sviluppo
-Si consiglia di realizzare una scheda di sviluppo 
-[scheda di sviluppo ]()  
-* Minimal Hardware Setup for [Generic ESP8266 modules](https://github.com/esp8266/Arduino/blob/master/doc/boards.md#generic-esp8266-modules) e paragrafi sucessivi.
+Si consiglia di realizzare una scheda di sviluppo: 
+![scheda di sviluppo ](https://github.com/roboticboyer/Esempi_ESP8266/blob/master/DOC/Immagini/ESP8266_Breadbord.JPG)  
+* Minimal Hardware Setup for [Generic ESP8266 modules](https://github.com/esp8266/Arduino/blob/master/doc/boards.md#generic-esp8266-modules) e paragrafi sucessivi.  
 
