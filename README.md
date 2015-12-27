@@ -16,6 +16,6 @@ Questi sono  i componenti che utilizzo per i miei esperimenti con il moduli ESP8
 
 ##Scheda di sviluppo
 Si consiglia di realizzare una scheda di sviluppo 
-
-* Minimal Hardware Setup for [Generic ESP8266 modules](https://github.com/esp8266/Arduino/blob/master/doc/boards.md#generic-esp8266-modules)
+[scheda di sviluppo ]()  
+* Minimal Hardware Setup for [Generic ESP8266 modules](https://github.com/esp8266/Arduino/blob/master/doc/boards.md#generic-esp8266-modules) e paragrafi sucessivi.
 

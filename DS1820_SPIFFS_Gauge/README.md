@@ -35,6 +35,13 @@ Il codice del Javascript Gauge è derivato da:
 
 * http://newmaan.com/gauge.min.js
 
+##Javascript AJAX e XML
+Il codice Javascript AJAX e XML che dinamicamente aggiorna la pagina internet deriva da questi esempi sviluppati per le Ethernet Shield per Arduino.  
+
+
+* [Esempio di Luca Dentella](http://www.lucadentella.it/2014/10/18/enc28j60-e-arduino-19/)  
+* [Esempio di Starting Electronics](http://startingelectronics.org/tutorials/arduino/ethernet-shield-web-server-tutorial/SD-card-IO/)  
+
 ##Screenshots
 
 ![Image](https://github.com/roboticboyer/Esempi_ESP8266/blob/master/DS1820_SPIFFS_Gauge/Doc/Arduino_IDE_Browser_Gauge.png)
