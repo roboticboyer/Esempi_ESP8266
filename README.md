@@ -1,7 +1,8 @@
 Arduino ESP8266 Examples
 =========================
 
-A collection of Esp8266 sketches related to Web Server for IOT 
+A collection of Esp8266 sketches related to Web Server for IOT  
+* [Termometro DS1820, SPIFFS, Javascript AJAX and Gauge](https://github.com/roboticboyer/Esempi_ESP8266/tree/master/DS1820_SPIFFS_Gauge)  
 
 ##Componenti Consigliati
 Questi sono  i componenti che utilizzo per i miei esperimenti con il moduli ESP8266
